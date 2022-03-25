@@ -1,20 +1,21 @@
-<h1 align="left">Hi, i'm wairimu ian 👋 👨‍💻 ☺️</h1>
-<h2 align="center">Software Developer | Full Stack Engineer | Web Developer</h2>
- 
- <p align="center">
-  <img width="100%" height="400px" src="https://github.com/wairimu-ian/wairimu-ian/blob/main/github-image.jpg" alt="Material Bread logo">
-</p>
- 
-<!-- ![Software Developer | Full Stack Engineer | Web Developer](https://github.com/wairimu-ian/wairimu-ian/blob/main/github-image.jpg) -->
-
-<h3 align="center">Visitor Count: </h3>
+<!-- <h3 align="center">Visitor Count: </h3>
 
 <p align="center">
   <img width="400px" src="https://profile-counter.glitch.me/wairimu-ian/count.svg" alt="Material Bread logo">
-</p>
-
+</p> -->
+<h1 align="left">Hi, i'm wairimu ian 👋 👨‍💻 </h1>
+<h2 align="center">Software Developer | Full Stack Engineer | Web Developer</h2>
+ 
+  <img width="100%" height="500px" src="https://github.com/wairimu-ian/wairimu-ian/blob/main/undraw_hacker_mind_-6-y85.svg" alt="Material Bread logo">
+ 
+<!-- ![Software Developer | Full Stack Engineer | Web Developer](https://github.com/wairimu-ian/wairimu-ian/blob/main/github-image.jpg) -->
+<div>
+   <img align="right" width="50%"  src="https://github.com/wairimu-ian/wairimu-ian/blob/main/undraw_hacker_mind_-6-y85.svg" alt="Material Bread logo">
+ <p align="left">
 I'm passionate about making open source accessible, creating technology to elevate people and building a community 
 Programmer specialized in web development using multiple tools, frameworks and libraries both in frontend and backend. I pay a lot of attention to detail to generate best products.
+ </p>
+</div>
 
    <p align="center">Skills: VUE JS / REACT / JS / HTML / CSS</p>
 
