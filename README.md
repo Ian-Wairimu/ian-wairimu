@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @wairimu-ian
-- 👀 I’m interested in AI, cloud, IOT, programming, discrete math and aligorithms
-- 🌱 I’m currently learning advanced react js
-- 💞️ I’m looking to collaborate on some of my projects
-- 📫 How to reach me genjeculture.com
+### Hi, i'm wairimu ian 👋 👨‍💻 ☺️
 
-<!---
-wairimu-ian/wairimu-ian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wairimu ian)](https://github.com/anuraghazra/github-readme-stats)
