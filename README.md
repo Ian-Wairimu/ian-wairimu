@@ -1,14 +1,22 @@
-### Hi, i'm wairimu ian 👋 👨‍💻 ☺️
+<h1 align="left">Hi, i'm wairimu ian 👋 👨‍💻 ☺️</h1>
+<h2 align="center">Software Developer | Full Stack Engineer | Web Developer</h2>
+ 
+ <p align="center">
+  <img width="100%" height="400px" src="https://github.com/wairimu-ian/wairimu-ian/blob/main/github-image.jpg" alt="Material Bread logo">
+</p>
+ 
+<!-- ![Software Developer | Full Stack Engineer | Web Developer](https://github.com/wairimu-ian/wairimu-ian/blob/main/github-image.jpg) -->
 
-![Visitor Count](https://profile-counter.glitch.me/wairimu-ian/count.svg)
-### Hi there 👋, my name is Arturs
-#### Software Developer | Full Stack Engineer | Web Developer
-![Software Developer | Full Stack Engineer | Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+<h3 align="center">Visitor Count: </h3>
+
+<p align="center">
+  <img width="400px" src="https://profile-counter.glitch.me/wairimu-ian/count.svg" alt="Material Bread logo">
+</p>
 
 I'm passionate about making open source accessible, creating technology to elevate people and building a community 
 Programmer specialized in web development using multiple tools, frameworks and libraries both in frontend and backend. I pay a lot of attention to detail to generate best products.
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+   <p align="center">Skills: VUE JS / REACT / JS / HTML / CSS</p>
 
 - 🔭 I’m currently working on Spring Boot and Spring Cloud Microservice App 
 - 🌱 I’m currently learning Rust and Rocket.rs 
