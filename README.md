@@ -25,7 +25,6 @@ I'm passionate about making open source accessible, creating technology to eleva
   
   <div>
   <ul align="letf">
-    <li>🔭 I’m currently working on Spring Boot and Spring Cloud Microservice App </li>
     <li>🌱 I’m currently learning Rust and Rocket.rs</li>
     <li>⚡ Fun fact: Bigger Forks Lead You to Eat Less</li>
     <img align="right" width="50%" height="200px" src="https://github.com/wairimu-ian/wairimu-ian/blob/main/undraw_code_thinking_re_gka2.svg" alt="Material Bread logo">
