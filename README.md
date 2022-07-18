@@ -1,10 +1,4 @@
-<h3 align="center">Visitor Count 🕐 </h3>
-
-<p align="center">
-  <img width="400px" src="https://profile-counter.glitch.me/wairimu-ian/count.svg" alt="Material Bread logo">
-</p>
-
-# Hi, i'm wairimu ian 👋 👨‍💻 
+# Hey, i'm wairimu ian 👋 👨
 Software Developer | Full Stack Engineer | Web Developer
  
   <img width="100%" height="300px" src="https://github.com/wairimu-ian/wairimu-ian/blob/main/undraw_programming_re_kg9v.svg" alt="Material Bread logo">
