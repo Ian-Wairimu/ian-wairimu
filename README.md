@@ -1,5 +1,6 @@
 # Hey, i'm Ian Moon Warimu 👋 👨
-Full Stack Engineer | Backend Developer | Frontend Developer | Devops Engineer | Blockchain Developer
+
+Full Stack Engineer | Software Engineer  | Blockchain Developer
  
   <img width="100%" height="300px" src="https://github.com/wairimu-ian/wairimu-ian/blob/main/undraw_programming_re_kg9v.svg" alt="Material Bread logo">
  
