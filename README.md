@@ -1,5 +1,5 @@
-# Hey, i'm wairimu ian 👋 👨
-Software Developer | Full Stack Engineer | Web Developer
+# Hey, i'm Ian Moon Warimu 👋 👨
+Full Stack Engineer | Backend Developer | Frontend Developer | Devops Engineer | Blockchain Developer
  
   <img width="100%" height="300px" src="https://github.com/wairimu-ian/wairimu-ian/blob/main/undraw_programming_re_kg9v.svg" alt="Material Bread logo">
  
@@ -7,7 +7,7 @@ Software Developer | Full Stack Engineer | Web Developer
 <div>
    <img align="right" width="50%" height="200px" src="https://github.com/wairimu-ian/wairimu-ian/blob/main/undraw_mobile_development_re_wwsn.svg" alt="Material Bread logo">
  <p align="left">
-I'm passionate about making open source accessible, creating technology to elevate people and building a community bringing forth expertise in design, installation, testing, microservices and maintenance of software systems. Equipped with a diverse and promising skill-set using multiple tools, frameworks and libraries both in frontend and backend.
+I'm passionate in making open source accessible to others, creating technology to elevate people and building a community. Equipped with a diverse and promising skill-set using multiple tools, frameworks and libraries.
  </p>
 </div>
 <div>
@@ -27,6 +27,6 @@ I'm passionate about making open source accessible, creating technology to eleva
  </div>
   
    <h2 align="center">Skills 💻</h2>
-   <p align="left">NODE JS/ EXPRESS / RESTIFY / VUE JS / REACT / NEXT / JS / HTML / CSS / REACT NATIVE / RUST / ROCKET.RS / SPRING BOOT / SPRING CORE / SPRING CLOUD / JAVA / PYTHON / FAST API / MYSQL / MONGO / C++ / C / ANGULAR / REST API / GRAPHQL / MICROSERVICES / MONOLITHIC / SOA</p>
+   <p align="left">NODE JS/ EXPRESS / RESTIFY / VUE JS / REACT / NEXT / JS / HTML / CSS / REACT NATIVE / RUST / ROCKET.RS / SPRING BOOT / SPRING CORE / SPRING CLOUD / JAVA / PYTHON / FAST API / MYSQL / MONGO / C++ / C / ANGULAR / REST API / GRAPHQL / MICROSERVICES / MONOLITHIC / SOA / BLOCKCHAIN</p>
    
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wairimu-ian&langs_count=8&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
