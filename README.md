@@ -1,6 +1,7 @@
 # Hey, i'm Ian Moon Warimu 👋 👨
 
 Full Stack Engineer | Software Engineer  | Blockchain Developer
+
  
   <img width="100%" height="300px" src="https://github.com/wairimu-ian/wairimu-ian/blob/main/undraw_programming_re_kg9v.svg" alt="Material Bread logo">
  
@@ -15,6 +16,8 @@ I'm passionate in making open source accessible to others, creating technology t
 <h2 align="center">Stats 📅</h2>
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wairimu-ian&theme=chartreuse-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+  
+   [![trophy](https://github-profile-trophy.vercel.app/?username=wairimu-ian&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
   
   </div>
   
