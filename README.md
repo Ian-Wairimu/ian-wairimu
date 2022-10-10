@@ -31,6 +31,5 @@ I'm passionate in making open source accessible to others, creating technology t
  </div>
   
    <h2 align="center">Skills 💻</h2>
-   <p align="left">NODE JS/ EXPRESS / RESTIFY / VUE JS / REACT / NEXT / JS / HTML / CSS / REACT NATIVE / RUST / ROCKET.RS / SPRING BOOT / SPRING CORE / SPRING CLOUD / JAVA / PYTHON / FAST API / MYSQL / MONGO / C++ / C / ANGULAR / REST API / GRAPHQL / MICROSERVICES / MONOLITHIC / SOA / BLOCKCHAIN</p>
+   <p align="left">GOLANG / NODE JS/ EXPRESS / VUE JS / REACT  / JS / REACT NATIVE / RUST / ROCKET.RS / SPRING BOOT / SPRING / JAVA / PYTHON / DJANGO / FAST API / MYSQL / MONGO / POSTGRESS / C++ / C / REST API / GRAPHQL / MICROSERVICES  / SOA / BLOCKCHAIN</p>
    
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wairimu-ian&langs_count=8&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
