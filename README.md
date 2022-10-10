@@ -17,8 +17,6 @@ I'm passionate in making open source accessible to others, creating technology t
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wairimu-ian&theme=chartreuse-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
   
-   [![trophy](https://github-profile-trophy.vercel.app/?username=wairimu-ian&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
-  
   </div>
   
   <div>
@@ -32,4 +30,6 @@ I'm passionate in making open source accessible to others, creating technology t
   
    <h2 align="center">Skills 💻</h2>
    <p align="left">GOLANG / NODE JS/ EXPRESS / VUE JS / REACT  / JS / REACT NATIVE / RUST / ROCKET.RS / SPRING BOOT / SPRING / JAVA / PYTHON / DJANGO / FAST API / MYSQL / MONGO / POSTGRESS / C++ / C / REST API / GRAPHQL / MICROSERVICES  / SOA / BLOCKCHAIN</p>
+   
+   [![trophy](https://github-profile-trophy.vercel.app/?username=wairimu-ian&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
    
