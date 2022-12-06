@@ -31,7 +31,7 @@ I'm passionate in making open source accessible to others, creating technology t
  </div>
   
    <h2 align="center">Skills 💻</h2>
-   <p align="left">GOLANG / NODE JS/ EXPRESS / VUE JS / REACT  / JS / REACT NATIVE / RUST / ROCKET.RS / SPRING BOOT / SPRING / JAVA / PYTHON / DJANGO / FAST API / MYSQL / MONGO / POSTGRESS / C++ / C / REST API / GRAPHQL / MICROSERVICES  / SOA / BLOCKCHAIN</p>
+   <p align="left">GOLANG / NODE JS/ EXPRESS / VUE JS / REACT  / JS / REACT NATIVE / SPRING BOOT / SPRING / JAVA / PYTHON / FAST API / MYSQL / MONGO / POSTGRESS / C++ / C / REST API / GRAPHQL / MICROSERVICES  / SOA / BLOCKCHAIN / HEXAGON ARCHITECTURE</p>
    <br>
    
   [![trophy](https://github-profile-trophy.vercel.app/?username=wairimu-ian&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
