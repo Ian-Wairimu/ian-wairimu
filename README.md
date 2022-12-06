@@ -1,4 +1,4 @@
-# Hey, i'm Ian Moon Warimu 👋 👨
+# Hey, i'm Ian Warimu 👋 👨
 
 Full Stack Engineer | Software Engineer  | Blockchain Developer
 
