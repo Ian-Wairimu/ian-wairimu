@@ -15,9 +15,9 @@ I'm passionate in making open source accessible to others, creating technology t
 <div>
 <h2 align="center">Stats 📅</h2>
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wairimu-ian&theme=chartreuse-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ian-wairimu&theme=chartreuse-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
  <br>
- ![](https://github-readme-streak-stats.herokuapp.com/?user=wairimu-ian&theme=chartreuse-dark&hide_border=false)
+ ![](https://github-readme-streak-stats.herokuapp.com/?user=ian-wairimu&theme=chartreuse-dark&hide_border=false)
   
   </div>
   
@@ -34,5 +34,5 @@ I'm passionate in making open source accessible to others, creating technology t
    <p align="left">GOLANG / NODE JS/ EXPRESS / VUE JS / REACT  / JS / REACT NATIVE / SPRING BOOT / SPRING / JAVA / PYTHON / FAST API / MYSQL / MONGO / POSTGRESS / C++ / C / REST API / GRAPHQL / MICROSERVICES  / SOA / BLOCKCHAIN / HEXAGON ARCHITECTURE</p>
    <br>
    
-  [![trophy](https://github-profile-trophy.vercel.app/?username=wairimu-ian&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=ian-wairimu&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
    
